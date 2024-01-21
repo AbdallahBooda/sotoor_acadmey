@@ -1,0 +1,19 @@
+*{
+    font-family: Tajawal;
+
+}
+.em5 {
+    font-size: 5em;
+    text-align: center;
+    padding-top: 100px ;
+    margin-bottom: 100px ;
+}
+.shadow-card
+{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    border-radius: 0px !important;
+}
+.height_card_body
+{
+    height: 221px;
+}

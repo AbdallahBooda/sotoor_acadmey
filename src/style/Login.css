@@ -1,0 +1,56 @@
+.img_width
+{
+    width: 100px;
+}
+.shadow-card
+{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    border-radius: 35px !important;
+    margin-top: 100px;
+    margin-bottom: 100px 
+}
+.header_style
+{
+    font-size: 4em;
+    font-weight: bold;
+}
+.maincolor{
+    color: #66d19f;
+    text-decoration-line: none;
+}
+.check_box_style
+{
+    float: right !important;
+    margin-left: 0.5em !important;
+
+}
+.button_style
+{
+    background-color: #66d19f;
+    border-radius: 15px;
+    border: 0px;
+    color: #fff;
+    padding: 10px;
+    font-size: larger;
+}
+.button_style:hover
+{
+    border: 2px solid;
+    background-color: #fff;
+    color: #66d19f;
+}
+.link_regist
+{
+    background-color: #18a2b8;
+    border-radius: 4px;
+    border: 0px;
+    color: #fff;
+    padding: 10px;
+    font-size: larger;
+    text-align: center;
+    text-decoration-line: none;
+}
+.link_regist:hover
+{
+    background-color: #128496;
+}

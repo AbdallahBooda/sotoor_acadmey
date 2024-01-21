@@ -1,0 +1,31 @@
+body
+{
+    font-family: Tajawal !important;
+    font-weight: bolder !important;
+
+}
+.link-size
+{
+    font-size: x-large;
+   
+}
+
+.button-style
+{
+    font-size: x-large !important;
+    border-radius: 23px !important;
+    padding: 14px !important;
+    
+
+}
+
+.button-style-login
+{
+    background-color: #67d19f !important;
+    border-color: #67d19f !important;
+}
+.button:hover
+{
+    background-color: #67d19f !important;
+}
+

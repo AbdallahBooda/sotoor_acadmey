@@ -1,0 +1,63 @@
+.card_style {
+  border-radius: 0px !important;
+  border: 0px solid !important;
+
+}
+.link_style {
+  float: right;
+  text-decoration: none;
+  color: black;
+  font-size: x-large;
+  font-weight: bold;
+  padding: 10px;
+}
+.icon_style {
+  float: left;
+  text-decoration: none;
+  color: black;
+  font-size: x-large;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.img_style {
+  width: 100%;
+}
+
+
+/*********************************************************************** PDFs_Ecommerce style ***************************************************************************/
+
+.to_cart
+{
+    text-decoration: none;
+    background-color: #66d19f;
+    border-radius: 0px;
+    border: 0px;
+    color: #fff;
+    padding: 10px;
+    
+}
+
+.bg_style
+{
+    background-color: black;
+}
+.img_pdf_style
+{
+    opacity:0.4;
+    background-color: black;
+}
+.d_h
+{
+    position: absolute;
+    width: 100%;
+}
+.h_style
+{
+    font-weight:bold;
+    color:white;
+    text-align:center;
+}
+.text-style {
+  top: 90px;
+}
